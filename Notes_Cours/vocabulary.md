@@ -53,3 +53,14 @@
 |              |MIMO            | Multiple-Input Multiple-Output  [links]                                                                   |
 |              |CPL             | Courant Porteur en Ligne → CC | Carrier courant                                                           |
 |              |IOT             | Internet of Things WLAN pour Wireless Local Area Network                                                  |
+
+|Optical Fibre Wavelength Band  |Band Descriptor|lbd Range (Nm) |
+|-------------------------------|---------------|---------------|
+|O-band                         |Original       |1260 to 1360   |
+|E-band                         |Extended       |1360 to 1460   |
+|S-band                         |Short          |1460 to 1530   |
+|C-band                         |Conventional   |1530 to 1565   |
+|L-band                         |Long           |1565 to 1625   |
+|U-band                         |Ultra-long     |1625 to 1675   |
+
+
