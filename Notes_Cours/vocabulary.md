@@ -41,18 +41,15 @@
 |              |NA              | Numerical Aperture                                                                                        |
 |              |SPR             | Surface Plasmon Resonator                                                                                 |
 |              |Optical Losses  | Bending Loss, Radiation Loss, Propagating Loss, Insertion loss, Coupling loss                             |
-|--------------|----------------|-----------------------------------------------------------------------------------------------------------|
 |              |RFC             | Radio Frequence Communication -> ondes radio, hautes fréquences, micro ondes ou encore hyperfréquences.   |
 |              |RFIC            | Radio Frequence Integrated Circuit [wiki]                                                                 |
 |              |RFID            | Radio Frequence Identification [wiki]                                                                     |
 |              |LNA             | Low-noise amplifier                                                                                       |
 |              |BPF             | Band Pass Filter (LPF, Low Pass Filter - HPF, High Pass Filter)                                           |
 |              |AMS             | analog/mixed-signal design                                                                                |
-|--------------|----------------|-----------------------------------------------------------------------------------------------------------|
 |              |Crosstalk       | Capacitive crosstalk caused by the electrical field - Inductive crosstalk caused by the magnetic field    |
 |              |TCP             | Transmission Control Protocol                                                                             |
 |              |IFF             | Identification Protocol friend or foe                                                                     |
 |              |MIMO            | Multiple-Input Multiple-Output  [links]                                                                   |
 |              |CPL             | Courant Porteur en Ligne → CC | Carrier courant                                                           |
-|              |IOT             |  Internet of Things WLAN pour Wireless Local Area Network                                                 |
-|--------------|----------------|-----------------------------------------------------------------------------------------------------------|
+|              |IOT             | Internet of Things WLAN pour Wireless Local Area Network                                                  |
