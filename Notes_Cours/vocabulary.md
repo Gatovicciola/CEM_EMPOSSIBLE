@@ -1,6 +1,9 @@
 | Theme        | Name           | Definition                                                                                                |
 |--------------|----------------|-----------------------------------------------------------------------------------------------------------|
 |              |PDK             | process development kit                                                                                   |
+|              |ASK             | amplityde shift keying                                                                                    |
+|              |PSK             | phase shift keying                                                                                        |
+|              |FSK             | frequency shift keying                                                                                    |
 |              |AWG             | arrayed waveguide                                                                                         |
 |              |QSFP modules    | quad small form factor pluggable                                                                          |
 |              |OTDR            | optical-time-domain reflectometer                                                                         |
