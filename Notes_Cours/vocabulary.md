@@ -1,7 +1,7 @@
 | Theme        | Name           | Definition                                                                                                |
 |--------------|----------------|-----------------------------------------------------------------------------------------------------------|
 |              |PDK             | process development kit                                                                                   |
-|              |EDFA            | Erbium-doped fiber amplifier                                                                                  |
+|              |EDFA            | Erbium-doped fiber amplifier                                                                              |
 |              |ASK             | amplityde shift keying                                                                                    |
 |              |PSK             | phase shift keying                                                                                        |
 |              |FSK             | frequency shift keying                                                                                    |
