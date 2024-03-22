@@ -1,6 +1,8 @@
 | Theme        | Name           | Definition                                                                                                |
 |--------------|----------------|-----------------------------------------------------------------------------------------------------------|
 |              |PDK             | process development kit                                                                                   |
+|              |DBR             | Distributed Bragg Reflector                                                                               |
+|              |SOA             |semiconductor optical amplifier                                                                            |
 |              |EDFA            | Erbium-doped fiber amplifier                                                                              |
 |              |ASK             | amplityde shift keying                                                                                    |
 |              |PSK             | phase shift keying                                                                                        |
